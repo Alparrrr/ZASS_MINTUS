@@ -1,0 +1,25 @@
+Added Component: Designator=C2(FP-CC0805-EA-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=C3(FP-CC0805-EA-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP-CC0805-EA-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-CC0805-EA-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VDD Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=VDD Pin=J2-2
+Added Pin To Net: NetName=SWCLK Pin=J2-3
+Added Pin To Net: NetName=SWDIO Pin=J2-4
+Added Pin To Net: NetName=NRST Pin=J2-5
+Added Member To Class: ClassName=Sheet2 Member=Component C2 CC0805KRX7R5BB104
+Added Member To Class: ClassName=Sheet2 Member=Component C3 CC0805KRX7R5BB104
+Added Member To Class: ClassName=Sheet2 Member=Component C4 CC0805KRX7R5BB104
+Added Member To Class: ClassName=Sheet2 Member=Component C5 CC0805KRX7R5BB104

@@ -1,0 +1,23 @@
+# --- STM32 & CubeIDE ---
+Debug/
+Release/
+.settings/
+*.ioc.bak
+*.mxproject
+
+# --- Altium Designer ---
+History/
+Project Logs for */
+__Previews/
+
+# --- Qt & VSCode ---
+build/
+*.o
+*.obj
+*.exe
+.vscode/
+*.user
+
+# --- Windows & Genel ---
+Thumbs.db
+*.log
