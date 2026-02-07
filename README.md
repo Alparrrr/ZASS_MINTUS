@@ -1,18 +1,36 @@
-\# ELS\_CONTROL (ZASS Battery Monitor)
+\## ZASS MINTUS (Battery Monitor(DISPLAY) and Logger)
 
 
 
-Control and display unit designed for the ZASS Lithium Battery Pack. Built on STM32 architecture, this system aggregates battery data and visualizes it via a DWIN HMI display.
+STM32 based display and control unit designed for ZASS Lithium Battery Packs.
+
+
+
+The system reads battery telemetry data via FDCAN/RS485 and visualizes it on a DWIN HMI screen using UART communication.
+
+
 
 
 
 \## Features
 
-\- \*\*MCU:\*\* STM32 Series Microcontroller.
+* Displays Cell Voltages, Total Pack Voltage, SOC, and Temperature.
+* \*\*2x FDCAN\*\* and \*\*1x RS485\*\* ports for communication.
+* \*\*UART\*\* implementation for DWIN display driver.
+* Detailed fault monitoring (Over-Voltage, Under-Voltage, Over-Temp, Over-Curr).
+* Detailed log saving into SD Card included all data that comes from pack.
 
-\- \*\*Display Interface:\*\* UART communication specifically implemented for DWIN HMI Screens.
 
-\- \*\*Connectivity:\*\* 2x FDCAN ports for robust industrial communication and data acquisition.
 
-\- \*\*Functionality:\*\* Real-time monitoring of battery status, voltage, and system alerts.
 
+
+\## Communication Flow
+
+* &nbsp; \*\*BMS -> MINTUS (FDCAN/RS485):\*\* Receiving raw battery data.
+* &nbsp; \*\*MINTUS -> DISPLAY (UART/FDCAN):\*\* Parsing data and updating screen variables.
+
+
+
+---
+
+* #### Status:  **Hardware Completed** 
