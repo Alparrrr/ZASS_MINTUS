@@ -169,19 +169,79 @@ GenerateClassCluster=0
 DocumentUniqueId=JWTXSJAY
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ZASS_MINTUS\BOM\Bill of Materials-ZASS_MINTUS.xlsx
+DocumentPath=BOM\Bill of Materials-ZASS_MANTIS.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.DRR
+DocumentPath=Project Outputs for ZASS_MINTUS\BOM\Bill of Materials-ZASS_MINTUS.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.LDP
+DocumentPath=NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=GerberX2\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=GerberX2\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=GerberX2\PCB1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=GerberX2\PCB1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=GerberX2\PCB1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=GerberX2\PCB1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=GerberX2\PCB1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=GerberX2\PCB1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=GerberX2\PCB1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=GerberX2\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=GerberX2\PCB1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
