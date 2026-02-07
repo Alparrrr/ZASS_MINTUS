@@ -168,6 +168,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWTXSJAY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ZASS_MINTUS\BOM\Bill of Materials-ZASS_MINTUS.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ZASS_MINTUS\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
