@@ -1,4 +1,4 @@
-\## ZASS MINTUS (Battery Monitor(DISPLAY) and Logger)
+\## ZASS MANTIS (Battery Monitor(DISPLAY) and Logger)
 
 
 
@@ -26,8 +26,8 @@ The system reads battery telemetry data via FDCAN/RS485 and visualizes it on a D
 
 \## Communication Flow
 
-* &nbsp; \*\*BMS -> MINTUS (FDCAN/RS485):\*\* Receiving raw battery data.
-* &nbsp; \*\*MINTUS -> DISPLAY (UART/FDCAN):\*\* Parsing data and updating screen variables.
+* &nbsp; \*\*BMS -> MANTIS (FDCAN/RS485):\*\* Receiving raw battery data.
+* &nbsp; \*\*MANTIS -> DISPLAY (UART/FDCAN):\*\* Parsing data and updating screen variables.
 
 
 
